@@ -70,7 +70,7 @@ Explain what these tests test and why
 
 * Screenshots  
 
- ![alt text](https://github.com/ahmedshaban1/EasySlider/blob/master/Screenshot_2018-05-11-18-44-00.png)
+ ![alt text](https://github.com/ahmedshaban1/horizontalListPicker/blob/master/ezgif.com-video-to-gif.gif)
  ![alt text](https://github.com/ahmedshaban1/EasySlider/blob/master/Screenshot_2018-05-11-18-44-06.png)
  ![alt text](https://github.com/ahmedshaban1/EasySlider/blob/master/Screenshot_2018-05-11-18-44-10.png)
 
