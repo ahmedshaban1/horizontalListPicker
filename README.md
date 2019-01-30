@@ -43,6 +43,8 @@ Explain what these tests test and why
 ```
 * java code 
 ```
+
+  // send your contex ,  your custom adapter , and target position 
   horizontal_picker.setUp(this, new HorizontalListPickerAdapter(this, dummyList), 0);
 
         horizontal_picker.setOnItemSelectedListener(new PickerLayoutManager.OnItemSelectedListener() {
@@ -68,11 +70,13 @@ Explain what these tests test and why
 
 
 
-* Screenshots  
+* preview with Alpha Type  
 
  ![alt text](https://github.com/ahmedshaban1/horizontalListPicker/blob/master/ezgif.com-video-to-gif.gif)
- ![alt text](https://github.com/ahmedshaban1/EasySlider/blob/master/Screenshot_2018-05-11-18-44-06.png)
- ![alt text](https://github.com/ahmedshaban1/EasySlider/blob/master/Screenshot_2018-05-11-18-44-10.png)
+ 
+* preview with Scale Type Type  
+ 
+ ![alt text](https://github.com/ahmedshaban1/horizontalListPicker/blob/master/ezgif.com-video-to-gif%20(2).gif)
 
 
 
